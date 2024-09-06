@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spiderman (ATSV) - Spider-man 2099
+* source:	https://sketchfab.com/3d-models/spiderman-atsv-spider-man-2099-c947a8113b08439981ea3be109bd62b4
+* author:	Kabiidev (https://sketchfab.com/Kabiidev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spiderman (ATSV) - Spider-man 2099" (https://sketchfab.com/3d-models/spiderman-atsv-spider-man-2099-c947a8113b08439981ea3be109bd62b4) by Kabiidev (https://sketchfab.com/Kabiidev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
